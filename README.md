@@ -15,4 +15,4 @@ _**Table of contents**_
 **_Comparative Analysis of Topics Covered by False and True News in the Context of the COVID-19 Pandemic_**           
 2023 | Book chapter           
 DOI: 10.1007/978-3-031-29408-2_2           
-CONTRIBUTORS: Margarita Zhdankina; Victoria Kolesnikova; Sergey Romanov; Dmitri Rudyuk
+CONTRIBUTORS: Margarita Zhdankina (mamiezh); Victoria Kolesnikova (tediumm); Sergey Romanov (zoneout215); Dmitri Rudyuk
