@@ -12,7 +12,7 @@ _**Table of contents**_
 - fake_new_dataset.xlsx - main preprocessed dataset
 
 # Resulting paper
-**_Comparative Analysis of Topics Covered by False and True News in the Context of the COVID-19 Pandemic_**
-2023 | Book chapter
-DOI: 10.1007/978-3-031-29408-2_2
+**_Comparative Analysis of Topics Covered by False and True News in the Context of the COVID-19 Pandemic_**           
+2023 | Book chapter           
+DOI: 10.1007/978-3-031-29408-2_2           
 CONTRIBUTORS: Margarita Zhdankina; Victoria Kolesnikova; Sergey Romanov; Dmitri Rudyuk
